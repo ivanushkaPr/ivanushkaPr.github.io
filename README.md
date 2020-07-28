@@ -2,7 +2,7 @@
 
 ## 1. Аналоги trello
 
-Первый самостоятельный проект на React. 
+Второй самостоятельный проект на React. 
 
 Используемый стек:
 1. react-router-dom
@@ -33,3 +33,14 @@
 3. Mocha + chai + sinon
 
 [Демонстрация](https://ivanushkapr.github.io/slider/)
+
+## 4. Todo 
+
+Первый самостоятельный проект на React.
+
+Используемый стек:
+1. react.
+2. Styled components
+
+
+[Демонстрация](https://ivanushkapr.github.io/todo/)
