@@ -1,6 +1,6 @@
 # Демонстрация проектов
 
-## 1. Аналоги trello
+## 1. Аналог trello
 
 Второй самостоятельный проект на React. 
 
@@ -55,3 +55,16 @@ Songbird в стиле угадай мелодию.
 
 
 [Демонстрация](https://ivanushkapr.github.io/gaysongs/)
+
+## 5. Aviasales
+
+Тестовое задание от компании Aviasales на позицию junior front end.
+Нашел на просторах github.
+
+Используемый стек:
+1. react.
+2. Styled components.
+3. Typescript.
+
+
+[Демонстрация](https://ivanushkapr.github.io/aviasales/)
