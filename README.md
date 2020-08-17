@@ -56,7 +56,7 @@ Songbird в стиле угадай мелодию.
 
 [Демонстрация](https://ivanushkapr.github.io/gaysongs/)
 
-## 5. Aviasales
+## 6. Aviasales
 
 Тестовое задание от компании Aviasales на позицию junior front end.
 Нашел на просторах github.
