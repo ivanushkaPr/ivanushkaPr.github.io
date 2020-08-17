@@ -56,15 +56,15 @@ Songbird в стиле угадай мелодию.
 
 [Демонстрация](https://ivanushkapr.github.io/gaysongs/)
 
-## 6. Aviasales
+## 6. Aviasales test task.
 
-Тестовое задание от компании Aviasales на позицию junior front end.
-Нашел на просторах github.
+Тестовое задание от компании Aviasales на позицию junior front end, нашел его на github.
+Первая попытка написать react component на typescript. 
 
 Используемый стек:
 1. react.
 2. Styled components.
 3. Typescript.
-
+4. Axios.
 
 [Демонстрация](https://ivanushkapr.github.io/aviasales/)
