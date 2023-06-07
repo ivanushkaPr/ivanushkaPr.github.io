@@ -71,3 +71,17 @@ Songbird в стиле угадай мелодию.
 4. Axios.
 
 [Демонстрация](https://ivanushkapr.github.io/aviasales/)
+
+## 6. leads test task.
+
+Тестовое задание от компании Aviasales на позицию junior front end, нашел его на github.
+Первая попытка написать react component на typescript. 
+
+Используемый стек:
+1. vue2.
+2. vuex.
+3. lodash.
+4. v-click-outside.
+5. vuelidate
+
+[Демонстрация](https://ivanushkapr.github.io/articles-app/)
